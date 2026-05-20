@@ -1,36 +1,39 @@
+
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Certificate Verification</title>
-  <style>
-    body{
-      font-family: Arial;
-      text-align:center;
-      padding:50px;
-      background:#f2f2f2;
-    }
-    .box{
-      background:white;
-      padding:30px;
-      border-radius:10px;
-      width:300px;
-      margin:auto;
-      box-shadow:0 0 10px gray;
-    }
-    h1{
-      color:green;
-    }
-  </style>
+<title>Certificate Verification</title>
+<style>
+body{
+font-family:Arial;
+background:#f2f2f2;
+text-align:center;
+padding:50px;
+}
+.box{
+background:white;
+padding:30px;
+border-radius:10px;
+width:300px;
+margin:auto;
+box-shadow:0 0 10px gray;
+}
+h1{
+color:green;
+}
+</style>
 </head>
+
 <body>
 
 <div class="box">
-  <h1>Certificate Verified ✅</h1>
-  
-  <p><b>Name:</b> Mahi</p>
-  <p><b>Internship:</b> Cyber & Law</p>
-  <p><b>Duration:</b> 30 Days</p>
-  <p><b>Status:</b> Valid Certificate</p>
+<h1>Certificate Verified ✅</h1>
+
+<p><b>Name:</b> Mahipal</p>
+<p><b>Internship:</b> Cyber & Law</p>
+<p><b>Duration:</b> 30 Days</p>
+<p><b>Status:</b> Valid Certificate</p>
+
 </div>
 
 </body>
